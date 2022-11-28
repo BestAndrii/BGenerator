@@ -50,7 +50,7 @@ QLineEdit {
      <string notr="true"/>
     </property>
     <property name="text">
-     <string>Згенерировать число</string>
+     <string>Сгенерировать число</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit">
